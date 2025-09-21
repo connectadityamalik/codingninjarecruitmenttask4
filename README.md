@@ -21,13 +21,3 @@ pip install -r requirements.txt
 ```
 python Placement_Prediction_Complete.py
 ```
-
-## Submission Details
-
-- Task: AIML Recruitment Task 2  
-- Deadline: September 27, 2025, 11:59 PM IST  
-- Submit your GitHub repository link on the Google Form shared via your SRM email.
-
----
-
-If you have any questions, please contact the recruitment coordinator.
